@@ -25,7 +25,7 @@ To run this python file use this command on your terminal
 <img width="1265" alt="Screenshot 2025-04-08 at 8 03 55 PM" src="https://github.com/user-attachments/assets/0df20e1b-1b20-4b18-88c0-2f2a3e89ba86" />
 
 
-3. **Reconstruct the image using solution.py :**
+3. **Reconstruct the image using PuzzleSolution.py :**
 
           👉``` python ./PuzzleSolution.py ```👈
   
