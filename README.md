@@ -12,20 +12,23 @@ This program takes an image and scrambles it like a puzzle by cutting it into sm
 
 1. **Install Pillow** (if you haven’t already) :
   
-  ``` pip install Pillow ```
+           👉``` pip install Pillow ```👈
+  
   <img width="1269" alt="19701841-5D7E-4CC4-B76F-015ED097EF8C" src="https://github.com/user-attachments/assets/78754bd4-e874-48fb-902c-4aea51fc4e78" />
 
   
 2. **Scramble an image with puzzle.py :**
 To run this python file use this command on your terminal 
 
-``` python ./puzzle.py ```
+           👉``` python ./puzzle.py ```👈
+  
 <img width="1265" alt="Screenshot 2025-04-08 at 8 03 55 PM" src="https://github.com/user-attachments/assets/0df20e1b-1b20-4b18-88c0-2f2a3e89ba86" />
 
 
 3. **Reconstruct the image using solution.py :**
 
-``` python ./PuzzleSolution.py ```
+          👉``` python ./PuzzleSolution.py ```👈
+  
 <img width="1265" alt="Screenshot 2025-04-08 at 8 04 56 PM" src="https://github.com/user-attachments/assets/3fceaea6-71f9-4ed2-b148-70d0a2c63d09" />
 
 
